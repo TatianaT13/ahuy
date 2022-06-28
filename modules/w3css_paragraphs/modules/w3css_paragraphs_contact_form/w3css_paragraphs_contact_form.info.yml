@@ -1,0 +1,15 @@
+name: W3CSS Paragraphs Contact Form
+type: module
+description: A reusable W3CSS paragraphs contact form bundle.
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Paragraphs
+dependencies:
+  - drupal:contact
+  - contact_formatter:contact_formatter
+  - w3css_paragraphs:w3css_paragraphs
+
+# Information added by Drupal.org packaging script on 2022-05-15
+version: '1.0.5'
+project: 'w3css_paragraphs'
+datestamp: 1652649912
